@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Project[[:space:]]1/Code/params_nnScript.pickle filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]1/Video/ML_project1.mp4 filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]2/video.mp4 filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]1/Video/ML[[:space:]]project1.mp4 filter=lfs diff=lfs merge=lfs -text
